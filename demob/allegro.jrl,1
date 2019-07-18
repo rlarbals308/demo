@@ -1,0 +1,61 @@
+\t (00:00:28) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:28)     Journal start - Wed Jul 17 14:45:12 2019
+\t (00:00:28)         Host=USER-PC User=user Pid=4852 CPUs=4
+\t (00:00:28) CmdLine= allegro.exe -p .
+\t (00:00:28) 
+\d (00:00:28) Design opened: C:/Users/user/Desktop/routing sample/demob/demob2.brd
+\i (00:00:28) generaledit 
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 934.2 973.6
+\i (00:00:29) trapsize 117
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 934.3 973.6
+\i (00:00:29) trapsize 235
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 2532.0 1113.9
+\i (00:00:29) trapsize 235
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 2532.0 1104.5
+\i (00:00:29) trapsize 235
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 878.1 864.8
+\i (00:00:29) trapsize 117
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 541.1 857.8
+\i (00:00:30) trapsize 59
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 483.5 1019.9
+\i (00:00:35) trapsize 117
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 541.2 895.4
+\i (00:00:36) trapsize 59
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 537.7 895.5
+\i (00:00:37) trapsize 29
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 537.1 895.5
+\i (00:00:37) trapsize 59
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 537.2 895.5
+\i (00:00:38) trapsize 117
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 470.7 1217.3
+\i (00:00:39) trapsize 59
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 361.5 813.2
+\i (00:00:41) trapsize 117
+\i (00:01:25) exit 
+\t (00:01:26)     Journal end - Wed Jul 17 14:46:10 2019
